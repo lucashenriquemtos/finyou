@@ -1,3 +1,6 @@
 [submodule "ms-financeiro"]
 	path = ms-financeiro
 	url = git@github.com:lucashenriquemtos/ms-financeiro.git
+[submodule "infra-fin"]
+	path = infra-fin
+	url = git@github.com:lucashenriquemtos/infra-fin.git
