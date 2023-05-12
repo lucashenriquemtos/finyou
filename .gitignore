@@ -1,0 +1,21 @@
+# Compiled class file
+*.class
+
+# Log files
+log/
+*.log
+
+# Maven target folder
+target/
+
+# IntelliJ project files
+*.iml
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+
+# Spring Boot generated files
+target/
+build/
+*.jar
