@@ -1,0 +1,3 @@
+[submodule "ms-financeiro"]
+	path = ms-financeiro
+	url = git@github.com:lucashenriquemtos/ms-financeiro.git
